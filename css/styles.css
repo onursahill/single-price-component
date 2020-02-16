@@ -1,0 +1,74 @@
+body{
+    font-family: "Karla", sans-serif;
+    background-color: #E6EFF5;
+}
+
+
+
+/* FULL BOX */
+
+.full-box{
+    background-color: green;
+    padding: 0;
+    width: 50%;
+    margin-top: 10%;
+}
+
+
+
+/* UPPER BOX */
+
+.upper-box{
+    background-color: white;
+    padding: 2rem;
+}
+
+.join{
+    color: #2AB2B0;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.join-desc{
+    color: #C0DF34;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+
+
+/* LOWER BOX */
+
+.lower-box{
+    background-color: yellow;
+}
+
+
+
+/* LEFT BOX */
+
+.left-box{
+    background-color: #2AB2B0;
+}
+
+
+
+/* RIGHT BOX */
+
+.right-box{
+    background-color: #4ABEBD;
+}
+
+
+
+/* FOOTER */
+
+.footer{
+    margin-top: 13%;
+    text-align: center;
+}
+
+.attribution{
+    color: #98A6BD;
+    font-size: 12px;
+}
